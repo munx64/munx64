@@ -63,7 +63,7 @@ EOF
 <div align="center">
 
 [![](https://img.shields.io/badge/-%5BREDACTED%5D-black?style=for-the-badge&logo=dark&logoColor=FF0000)](https://YOURUSERNAME.onion)
-[![](https://img.shields.io/badge/SECURE_CONTACT-black?style=for-the-badge&logo=protonmail&logoColor=FF0000)](mailto:YOURUSERNAME@protonmail.com)
+[![](https://img.shields.io/badge/SECURE_CONTACT-black?style=for-the-badge&logo=protonmail&logoColor=FF0000)](mailto:muqrni@protonmail.com)
 [![](https://img.shields.io/badge/DEAD_DROP-black?style=for-the-badge&logo=tor-browser&logoColor=FF0000)](https://YOURUSERNAME.onion)
 
 </div>
