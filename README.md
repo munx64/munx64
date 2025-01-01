@@ -1,83 +1,85 @@
 <div align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=B026FF&center=true&vCenter=true&width=600&lines=Navigating+the+Digital+Underworld;Hunting+Zero-Days;Breaking+Into+Systems;Leaving+No+Trace" alt="Typing SVG" />
+  <img src="http://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=System+Infiltration+Specialist;Zero-Day+Hunter;Digital+Ghost;Shadow+Operative" alt="Typing SVG" />
 </div>
 
-```css
-⠀⠀⠀⠀⠀⠀⠀⢀⡴⠟⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠷⢦⡀
-⠀⠀⠀⠀⠀⠀⣠⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢳⡄
-⠀⠀⠀⠀⠀⣰⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣧
-⠀⠀⠀⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
-⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
-⠀⠀⢀⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸
-⠀⠀⣾⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾
-⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡟
-⠀⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⠃
-⠀⠘⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀
-⠀⠀⢿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⠀
+```nasm
+; System breach detected
+section .data
+    msg db "Access granted. Welcome to the shadows."
+    len equ $ - msg
 ```
 
-## ⚡ Shadow Operations
+## ⚔️ Threat Level: [CRITICAL]
 ```python
-class DarkOperator:
+class ShadowOperative:
     def __init__(self):
-        self.alias = "REDACTED"
-        self.status = "Ghost_Protocol_Active"
-        self.specialization = [
-            "Deep Web Reconnaissance",
-            "Zero-Day Discovery",
-            "System Infiltration",
-            "Digital Espionage"
-        ]
+        self.codename = "[CLASSIFIED]"
+        self.status = "ACTIVE_SHADOW_PROTOCOL"
+        self.threat_level = "MAXIMUM"
+        self.specialization = {
+            "primary": "System Infiltration",
+            "secondary": "Zero-Day Research",
+            "covert_ops": "Deep Web Intelligence"
+        }
 ```
 
-## 💉 Arsenal
+<div align="center">
+<table border="0">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&title_color=FF0000&text_color=800000&icon_color=FF0000&border_color=800000&bg_color=000000&hide_border=false&count_private=true" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=black-ice&background=000000&stroke=FF0000&ring=FF0000&fire=800000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=800000&dates=800000&hide_border=false" />
+</td>
+</tr>
+</table>
+</div>
+
+## 🗡️ Arsenal
 <div align="center">
 
-| Weaponry | Intelligence | Infiltration |
-|:--------:|:-----------:|:------------:|
-| Cobalt Strike | OSINT Tools | Custom Rootkits |
-| Metasploit | Maltego | Zero-Days |
-| Burp Suite | Shodan | RATs |
-| Empire | Recon-ng | Backdoors |
+| Infiltration | Exploitation | Intelligence |
+|:------------:|:------------:|:------------:|
+| `Nmap` | `Metasploit` | `Shodan` |
+| `Burp Suite` | `Empire` | `Maltego` |
+| `Cobalt Strike` | `Custom RATs` | `OSINT Tools` |
+| `Rootkits` | `Zero-Days` | `Wireshark` |
 
 </div>
 
-## 🕷️ Dark Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=midnight-purple&hide_border=true&stroke=B026FF&ring=B026FF&fire=B026FF" />
-</p>
-
-## ⚔️ Underground Activities
+## 💉 Operation Stats
 ```shell
-[SYSTEM]> Loading operative history...
-[+] Discovered CVE-2024-XXXXX [Classified]
-[+] Ghost Protocol deployments: 147
-[+] Systems compromised: [REDACTED]
-[+] Zero-days in arsenal: [CLASSIFIED]
-[+] Dark Web Intelligence Gathered: 13TB
+#!/bin/bash
+cat << EOF
+[!] Active Operations: [CLASSIFIED]
+[!] Systems Infiltrated: [REDACTED]
+[!] Zero-Days Found: [DATA EXPUNGED]
+[!] Success Rate: 100%
+EOF
 ```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&text_color=B026FF&title_color=B026FF&icon_color=B026FF"/>
-</div>
 
 ## 🌑 Shadow Network
 <div align="center">
 
-[![](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)](https://YOURUSERNAME.onion)
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOURUSERNAME)
-[![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:YOURUSERNAME@protonmail.com)
+[![](https://img.shields.io/badge/-%5BREDACTED%5D-black?style=for-the-badge&logo=dark&logoColor=FF0000)](https://YOURUSERNAME.onion)
+[![](https://img.shields.io/badge/SECURE_CONTACT-black?style=for-the-badge&logo=protonmail&logoColor=FF0000)](mailto:YOURUSERNAME@protonmail.com)
+[![](https://img.shields.io/badge/DEAD_DROP-black?style=for-the-badge&logo=tor-browser&logoColor=FF0000)](https://YOURUSERNAME.onion)
 
 </div>
 
 ```c
-int main() {
-    char message[] = "Null byte detected. Connection terminated.";
-    memset(message, 0, strlen(message));
-    return EXIT_SUCCESS;
+void secure_exit() {
+    char footprint[] = "No traces left behind.";
+    memset(footprint, 0, sizeof(footprint));
+    _exit(0);
 }
 ```
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=darkhub&column=4&margin-w=15&margin-h=15&no-frame=true&title_color=FF0000"/>
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=B026FF&style=flat-square&label=Shadow+Traces" />
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&color=FF0000&style=flat-square&label=Shadow+Traces" />
 </p>
