@@ -14,7 +14,8 @@
   display: flex; 
   justify-content: center; 
   align-items: center; 
-  gap: 10px; margin: 20px auto;
+  gap: 10px; 
+  margin: 20px auto;
   width: fit-content;">
   
   <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-800000?style=for-the-badge&logo=hackaday&logoColor=800000" alt="Threat Level: Maximum">
