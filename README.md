@@ -6,6 +6,11 @@
   <img src="https://img.shields.io/badge/CTF-Active%20Player-800000">
 </p>
 
+<!-- Dark Metrics -->
+<div style="background-color: #000000; padding: 20px; border: 1px solid #800000;">
+  <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-800000?style=for-the-badge&logo=hackaday&logoColor=800000"/>
+  <img src="https://img.shields.io/badge/SYSTEM%20ACCESS-GRANTED-800000?style=for-the-badge&logo=tor-browser&logoColor=800000"/>
+</div>
 
 ### 🎯 Expertise
 
@@ -19,7 +24,6 @@ RESPONSE:
 - Malware Analysis
 - CTF Challenge Creation
 ```
-
 
 ### 🏆 CTF Statistics
 - Top 1% on HackTheBox
@@ -36,8 +40,10 @@ weapons = {
 }
 ```
 
-### [ ENCRYPTED_COMMUNICATION_CHANNELS ]
+<!-- Encrypted Channels -->
 <div align="center">
+
+### [ ENCRYPTED_COMMUNICATION_CHANNELS ]
 
 [![Encrypted](https://img.shields.io/badge/-ENCRYPTED-000000?style=for-the-badge&logo=tor-browser&logoColor=800000)](https://[REDACTED])
 [![](https://img.shields.io/badge/BITCOIN_WALLET-black?style=for-the-badge&logo=bitcoin&logoColor=FF0000)](https://www.blockchain.com/btc/address/bc1qj3hdsk2tfkghzlt7n9pxrv9aackfydhyy0tvfx5r3ejzts7ezt3sz8q284)
@@ -45,9 +51,6 @@ weapons = {
 [![](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=FF0000)](https://t.me/munx64)
 [![Classified](https://img.shields.io/badge/-CLASSIFIED-000000?style=for-the-badge&logo=matrix&logoColor=800000)](https://[REDACTED])
 </div>
-
-```c
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&title_color=800000&icon_color=800000&text_color=ffffff&bg_color=000000" alt="GitHub Stats">
 </p>
