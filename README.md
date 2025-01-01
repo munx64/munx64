@@ -1,159 +1,161 @@
 <div align="center">
 
-<!-- Glitch Effect Banner -->
-![Glitch Banner](https://capsule-render.vercel.app/api?type=slice&color=ff0000&height=200&section=header&text=SECURITY%20RESEARCHER&fontSize=60&animation=twinkling&fontColor=ffffff&rotate=10&stroke=ff0000&strokeWidth=2)
+<!-- Binary Rain Effect Header -->
+[![Header Binary](https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:800000&height=250&section=header&text=01010011%2001000101%2001000011&fontSize=40&animation=fadeIn&fontColor=ff0000&rotate=15&stroke=ff0000&strokeWidth=1&descSize=20&desc=S%20E%20C%20U%20R%20I%20T%20Y%20%20R%20E%20S%20E%20A%20R%20C%20H%20E%20R)](https://github.com/YOUR_USERNAME)
 
-<!-- Glitch Terminal Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1500&pause=500&color=FF0000&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=ACCESS+GRANTED...;SYSTEM+COMPROMISED...;WELCOME+TO+THE+DARK+SIDE...)](https://git.io/typing-svg)
+<!-- Glitch Terminal Access -->
+[![Terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=800&color=800000&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=180&lines=ESTABLISHING+SECURE+CONNECTION...;BYPASSING+SECURITY+PROTOCOLS...;ACCESSING+CLASSIFIED+DATABASE...;CONNECTION+ESTABLISHED...)](https://git.io/typing-svg)
 
-<!-- Digital Identity Section -->
+<!-- Dark Web Identity Matrix -->
 ```diff
-+ Target Profile: Security Researcher
-- Status: Anonymous
+@@[SYSTEM ALERT]@@
++ Identity: [CLASSIFIED]
+- Access Level: [ULTRA]
 ! Location: [REDACTED]
-@@ Specialization: Black Hat Operations @@
+# Status: [SHADOW_OPS]
 ```
 
-<!-- Threat Level Indicator -->
-<div align="center">
-  <img src="https://img.shields.io/badge/THREAT%20LEVEL-CRITICAL-800000?style=for-the-badge&logo=hackaday&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/ACCESS%20LEVEL-CLASSIFIED-800000?style=for-the-badge&logo=tor-browser&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/SYSTEM%20STATUS-COMPROMISED-800000?style=for-the-badge&logo=hack-club&logoColor=FF0000"/>
+<!-- Dark Metrics -->
+<div style="background-color: #000000; padding: 20px; border: 1px solid #800000;">
+  <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-800000?style=for-the-badge&logo=hackaday&logoColor=800000"/>
+  <img src="https://img.shields.io/badge/SYSTEM%20ACCESS-GRANTED-800000?style=for-the-badge&logo=tor-browser&logoColor=800000"/>
 </div>
 
-<!-- Underground Stats -->
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2768548" alt="TryHackMe"/>
+<!-- Shadow Profile -->
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2768548" alt="[REDACTED]"/>
 
 </div>
 
-<!-- Terminal Access -->
-```bash
-┌──[root@darkweb]─[/home/classified]
-└──╼ #cat manifesto.txt
-
-[!] OPERATIONAL OBJECTIVES
-════════════════════════
-✗ Systems Infiltration
-✗ Network Exploitation
-✗ Zero-Day Discovery
-✗ Underground Intel
+<!-- Encrypted System Access -->
+```hex
+0x4447: INITIALIZING SECURE SHELL...
+0x4448: BYPASSING AUTHENTICATION...
+0x4449: ACCESSING ROOT DIRECTORY...
+0x444A: ESTABLISHING ENCRYPTED TUNNEL...
+0x444B: CONNECTION SECURED...
 ```
 
-<!-- Dark Operations Matrix -->
+<!-- Dark Operations -->
 <details>
-<summary>⚠️ CLASSIFIED OPERATIONS</summary>
-<div align="center">
+<summary>⚠️ CLASSIFIED_OPERATIONS.exe</summary>
 
+```assembly
+section .data
+    operations db "INFILTRATION", 0x0A
+               db "EXPLOITATION", 0x0A
+               db "EXFILTRATION", 0x0A
+               db "[DATA_EXPUNGED]", 0x0A
+
+section .text
+    global _start
+
+_start:
+    ; [CONTENTS_REDACTED_BY_SYSTEM]
+```
+
+<!-- Dark Web Operation Matrix -->
 ```txt
-╔══════════════════════[ DARK OPERATIONS ]══════════════════════╗
-║                                                              ║
-║  INFILTRATION          EXPLOITATION         EXFILTRATION     ║
-║ ═══════════════       ═════════════       ═════════════      ║
-║ ▓ Social Engineering   ▓ Zero-Days         ▓ Data Breach     ║
-║ ▓ Physical Access      ▓ Custom Malware    ▓ C2 Channels     ║
-║ ▓ Network Pivoting     ▓ Kernel Exploits   ▓ Covert Comms    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-</details>
-
-<!-- Arsenal -->
-<details>
-<summary>🔪 WEAPONIZED ARSENAL</summary>
-
-```python
-class DarkArsenal:
-    def __init__(self):
-        self.tools = {
-            "infiltration": [
-                "Custom RATs",
-                "Zero-Day Exploits",
-                "Kernel Rootkits",
-                "Memory Injectors"
-            ],
-            "persistence": [
-                "Bootkit Loaders",
-                "Rootkit Implants",
-                "Stealth Backdoors",
-                "Ghost Protocols"
-            ],
-            "exfiltration": [
-                "Covert Channels",
-                "Data Smugglers",
-                "Shadow Networks",
-                "Dead Drop Systems"
-            ]
-        }
-
-    def execute_dark_op(self):
-        # [REDACTED FOR SECURITY]
-        pass
+╔════════════════════[ SHADOW_OPERATIONS ]════════════════════╗
+║  ┌──────────────────────────────────────────────────────┐  ║
+║  │ OPERATION_STATUS: [ACTIVE]                           │  ║
+║  │ THREAT_LEVEL: [CRITICAL]                            │  ║
+║  │ SYSTEM_ACCESS: [ROOT]                               │  ║
+║  │ NETWORK_CONTROL: [ESTABLISHED]                      │  ║
+║  └──────────────────────────────────────────────────────┘  ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </details>
 
-<!-- Underground Activity -->
+<!-- Underground Arsenal -->
 <details>
-<summary>👁️ SURVEILLANCE METRICS</summary>
+<summary>☠️ SHADOW_ARSENAL.dll</summary>
+
+```c
+typedef struct {
+    char* infiltration_tools;
+    char* exploitation_frameworks;
+    char* persistence_mechanisms;
+    char* exfiltration_channels;
+} dark_arsenal;
+
+void initialize_arsenal() {
+    // [CONTENT_CLASSIFIED]
+    // [ACCESS_DENIED]
+    // [SYSTEM_PROTECTED]
+}
+```
+
+<!-- Arsenal Matrix -->
+```txt
+┌───────────────────────[ ARSENAL_MATRIX ]───────────────────────┐
+│                                                               │
+│  [■] Custom Rootkits     [■] Memory Injectors   [■] RATs     │
+│  [■] Kernel Exploits     [■] Shadow Networks     [■] BOTs     │
+│  [■] Zero-Day Arsenal    [■] Ghost Protocols     [■] APTs     │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</details>
+
+<!-- Dark Metrics -->
+<details>
+<summary>👁️ SURVEILLANCE_DATA.dat</summary>
 
 <div align="center">
 
-<!-- Dark themed stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=000000&hide_border=false&border_color=FF0000&title_color=FF0000&text_color=800000&icon_color=FF0000"/>
+<!-- Encrypted Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=000000&hide_border=false&border_color=800000&title_color=800000&text_color=FF0000&icon_color=800000&card_width=500"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideNums=FF0000&currStreakLabel=FF0000&sideLabels=800000&dates=800000"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=dracula&bg_color=000000&border_color=800000&title_color=800000&text_color=800000"/>
 
 </div>
 </details>
 
-<!-- Dark Web Presence -->
+<!-- Classified Projects -->
 <details>
-<summary>🌐 UNDERGROUND PRESENCE</summary>
+<summary>🎯 CLASSIFIED_PROJECTS.sys</summary>
 
-| Operation | Status | Classification |
-|:----------|:------:|:---------------|
-| `Operation RedEclipse` | `[ACTIVE]` | `ULTRA` |
-| `Project ShadowPhantom` | `[ONGOING]` | `COSMIC` |
-| `Initiative DarkMatter` | `[CLASSIFIED]` | `NOIR` |
-| `Operation DeepStrike` | `[REDACTED]` | `ECLIPSE` |
+```hex
+0x0000 | Project: RedPhantom    | Status: [CLASSIFIED] | Level: ULTRA
+0x0001 | Project: ShadowBreach  | Status: [REDACTED]  | Level: OMEGA
+0x0002 | Project: DarkMatter    | Status: [███████]   | Level: COSMIC
+0x0003 | Project: VoidWalker    | Status: [ERROR]     | Level: ECLIPSE
+```
 
 </details>
 
-<!-- System Access -->
+<!-- System Core -->
 ```shell
-┌──[root@darkweb]─[/system/classified]
-└──╼ #cat access_log.txt
+┌──[SYSTEM_CORE]
+├──[ACCESS_LEVEL]: ROOT
+├──[SECURITY]: MAXIMUM
+├──[ENCRYPTION]: ENABLED
+└──[STATUS]: ACTIVE
 
-[!] ACCESS LEVELS
-════════════════
-[▓] Kernel Level Access
-[▓] System Level Control
-[▓] Network Level Override
-[▓] Data Level Manipulation
+[!] WARNING: SYSTEM MONITORING ACTIVE
+[!] CAUTION: INTRUSION DETECTION ENABLED
+[!] ALERT: COUNTER-MEASURES DEPLOYED
 ```
 
-<!-- Dark Web Links -->
+<!-- Encrypted Channels -->
 <div align="center">
 
-### [ ENCRYPTED CHANNELS ]
+### [ ENCRYPTED_COMMUNICATION_CHANNELS ]
 
-[![Onion](https://img.shields.io/badge/-ONION-000000?style=for-the-badge&logo=tor-browser&logoColor=FF0000)](https://your-onion-link.onion)
-[![Matrix](https://img.shields.io/badge/-MATRIX-000000?style=for-the-badge&logo=matrix&logoColor=FF0000)](https://matrix.to/#/@your-id:matrix.org)
-[![Signal](https://img.shields.io/badge/-SIGNAL-000000?style=for-the-badge&logo=signal&logoColor=FF0000)](https://signal.me/#p/your-id)
-[![Keybase](https://img.shields.io/badge/-KEYBASE-000000?style=for-the-badge&logo=keybase&logoColor=FF0000)](https://keybase.io/your-id)
+[![Encrypted](https://img.shields.io/badge/-ENCRYPTED-000000?style=for-the-badge&logo=tor-browser&logoColor=800000)](https://[REDACTED])
+[![Classified](https://img.shields.io/badge/-CLASSIFIED-000000?style=for-the-badge&logo=matrix&logoColor=800000)](https://[REDACTED])
+[![Restricted](https://img.shields.io/badge/-RESTRICTED-000000?style=for-the-badge&logo=signal&logoColor=800000)](https://[REDACTED])
 
 </div>
 
-<!-- Encrypted Footer -->
-```txt
------BEGIN PGP SIGNATURE-----
-VGhpcyBpcyBhIHNpZ25hdHVyZSBvZiB0aGUgZGFyayB3ZWIgcHJlc2VuY2U=
------END PGP SIGNATURE-----
+<!-- Binary Footer -->
+```binary
+01010011 01011001 01010011 01010100 01000101 01001101 00100000 01010100 01000101 01010010 01001101 01001001 01001110 01000001 01010100 01000101 01000100
 ```
 
-<!-- Dark Web Footer -->
+<!-- Encrypted Exit -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=100&section=footer&text=ACCESS%20TERMINATED&fontSize=24&animation=twinkling&fontColor=FF0000"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=100&section=footer&text=CONNECTION_TERMINATED&fontSize=24&animation=twinkling&fontColor=800000"/>
 </div>
