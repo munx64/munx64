@@ -36,13 +36,14 @@ weapons = {
 
 ### 📡 Connect Securely
 
-```plaintext
------BEGIN CONTACT BLOCK-----
-🌐 Telegram: @munx64
-📧 ProtonMail: muqrni@proton.me
-₿ BTC: bc1qj3hdsk2tfkghzlt7n9pxrv9aackfydhyy0tvfx5r3ejzts7ezt3sz8q284
------END CONTACT BLOCK-----
-```
+<div align="center">
+
+[![](https://img.shields.io/badge/BITCOIN_WALLET-black?style=for-the-badge&logo=bitcoin&logoColor=FF0000)](https://www.blockchain.com/btc/address/bc1qj3hdsk2tfkghzlt7n9pxrv9aackfydhyy0tvfx5r3ejzts7ezt3sz8q284)
+[![](https://img.shields.io/badge/PROTONMAIL-black?style=for-the-badge&logo=protonmail&logoColor=FF0000)](mailto:muqrni@proton.me)
+[![](https://img.shields.io/badge/TELEGRAM-black?style=for-the-badge&logo=telegram&logoColor=FF0000)](https://t.me/munx64)
+</div>
+
+```c
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&title_color=800000&icon_color=800000&text_color=ffffff&bg_color=000000" alt="GitHub Stats">
