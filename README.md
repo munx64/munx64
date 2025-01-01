@@ -10,7 +10,7 @@
 <div style="
   background-color: #000000; 
   border: 1px solid #800000; 
-  padding: 10px; 
+  padding: 20px; 
   display: flex; 
   justify-content: center; 
   align-items: center; 
@@ -18,8 +18,8 @@
   margin: 20px auto;
   width: fit-content;">
   
-  <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-800000?style=for-the-badge&logo=hackaday&logoColor=800000" alt="Threat Level: Maximum">
-  <img src="https://img.shields.io/badge/SYSTEM%20ACCESS-GRANTED-800000?style=for-the-badge&logo=tor-browser&logoColor=800000" alt="System Access: Granted">
+  <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-800000?style=for-the-badge&logo=hackaday&logoColor=800000">
+  <img src="https://img.shields.io/badge/SYSTEM%20ACCESS-GRANTED-800000?style=for-the-badge&logo=tor-browser&logoColor=800000">
 </div>
 
 ### 🎯 Expertise
