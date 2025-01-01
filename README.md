@@ -6,11 +6,6 @@
   <img src="https://img.shields.io/badge/CTF-Active%20Player-800000">
 </p>
 
- <!--Dark Metrics -->
-<div style="background-color: #000000; padding: 20px; border: 1px solid #800000;">
-  <img src="https://img.shields.io/badge/THREAT%20LEVEL-MAXIMUM-800000?style=for-the-badge&logo=hackaday&logoColor=800000"/>
-  <img src="https://img.shields.io/badge/SYSTEM%20ACCESS-GRANTED-800000?style=for-the-badge&logo=tor-browser&logoColor=800000"/>
-</div><!--
 
 ### 🎯 Expertise
 
